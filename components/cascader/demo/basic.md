@@ -17,11 +17,11 @@ Cascade selection box for selecting province/city/district.
 import { Cascader } from 'antd';
 
 const options = [{
-  value: 'zhejiang',
-  label: 'Zhejiang',
+  value: '11111zhejiang',
+  label: '11111Zhejiang',
   children: [{
-    value: 'hangzhou',
-    label: 'Hangzhou',
+    value: '22222hangzhou',
+    label: '22222Hangzhou',
     children: [{
       value: 'xihu',
       label: 'West Lake',
